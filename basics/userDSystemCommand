@@ -1,0 +1,7 @@
+step 1: make your own command with .sh extension
+step 2: move you command file into your PATH ->  echo $PATH 
+
+
+
+// you can also create your own directory and make a PATH 
+ -> command: # export PATH=$PATH:/home/user/filename/bin 
