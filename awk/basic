@@ -1,0 +1,14 @@
+
+awk syntax: 
+
+    awk options `pattern/condition {action}` filename
+    command| awk awk options `pattern/condition {action}`
+
+Options:  
+
+-f program-file : Reads the AWK program source from the file 
+                  program-file, instead of from the 
+                  first command line argument.
+-F fs            : Use fs for the input field separator
+
+
